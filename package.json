@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "Test my own MVC framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Aaron Larner",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "node-watch": "~0.3.4",
+    "underscore": "~1.5.2"
+  }
+}
